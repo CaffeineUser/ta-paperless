@@ -1,0 +1,1 @@
+﻿CREATE DATABASE IF NOT EXISTS ta_paperless_test;
